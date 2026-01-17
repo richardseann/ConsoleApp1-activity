@@ -8,7 +8,7 @@ namespace StudentGradeCalculator
         static void Main(string[] args)
         {
             Console.WriteLine("=================================");
-            Console.WriteLine("  STUDENT GRADE CALCULATOR");
+            Console.WriteLine("  STUDENT GRADE CALCULATOR"); Console.WriteLine("Welcome! This calculator helps you compute student grades.\n");
             Console.WriteLine("=================================\n");
 
             // Get student name
